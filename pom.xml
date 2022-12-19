@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Maven-_web_app/finalName>
+		<finalName>facebook/finalName>
 		
 		<plugins>
 			<plugin>
