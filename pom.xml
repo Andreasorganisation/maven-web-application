@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>facebook/finalName>
+		<finalName>tesla</finalName>
 		
 		<plugins>
 			<plugin>
