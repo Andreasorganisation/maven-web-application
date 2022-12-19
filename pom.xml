@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>facebook</finalName>
+		<finalName>andreas</finalName>
 		
 		<plugins>
 			<plugin>
