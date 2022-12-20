@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Ethan</finalName>
+		<finalName>paul</finalName>
 		
 		<plugins>
 			<plugin>
